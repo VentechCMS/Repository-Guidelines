@@ -1,0 +1,5 @@
+New repositories require a code review from another team member.
+The review is to ensure that the project does have any security or privacy concerns.
+
+Repository Name             Reviewer Name               Review Date        Comments
+---------------             -------------               -----------        --------
