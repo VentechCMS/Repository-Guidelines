@@ -4,3 +4,4 @@ The review is to ensure that the project does have any security or privacy conce
 Repository Name             Reviewer Name               Review Date        Comments
 ---------------             -------------               -----------        --------
 SQL_Activity_Chart          Jon Warren                  2016-06-21         Looks good!
+utilities                   Jon Heller                  2016-06-24         Not reviewed - fork of 3rd party code.
